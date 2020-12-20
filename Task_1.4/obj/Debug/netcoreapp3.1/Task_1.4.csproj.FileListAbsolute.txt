@@ -1,0 +1,16 @@
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\Task_1.4\bin\Debug\netcoreapp3.1\Task_1.4.exe
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\Task_1.4\bin\Debug\netcoreapp3.1\Task_1.4.deps.json
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\Task_1.4\bin\Debug\netcoreapp3.1\Task_1.4.runtimeconfig.json
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\Task_1.4\bin\Debug\netcoreapp3.1\Task_1.4.runtimeconfig.dev.json
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\Task_1.4\bin\Debug\netcoreapp3.1\Task_1.4.dll
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\Task_1.4\bin\Debug\netcoreapp3.1\Task_1.4.pdb
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\Task_1.4\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\Task_1.4\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\Task_1.4\obj\Debug\netcoreapp3.1\Task_1.4.csprojAssemblyReference.cache
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\Task_1.4\obj\Debug\netcoreapp3.1\Task_1.4.AssemblyInfoInputs.cache
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\Task_1.4\obj\Debug\netcoreapp3.1\Task_1.4.AssemblyInfo.cs
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\Task_1.4\obj\Debug\netcoreapp3.1\Task_1.4.csproj.CoreCompileInputs.cache
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\Task_1.4\obj\Debug\netcoreapp3.1\Task_1.4.csproj.CopyComplete
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\Task_1.4\obj\Debug\netcoreapp3.1\Task_1.4.dll
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\Task_1.4\obj\Debug\netcoreapp3.1\Task_1.4.pdb
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\Task_1.4\obj\Debug\netcoreapp3.1\Task_1.4.genruntimeconfig.cache

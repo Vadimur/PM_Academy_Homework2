@@ -1,0 +1,16 @@
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\BettingPlatformEmulatorTest\bin\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.exe
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\BettingPlatformEmulatorTest\bin\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.deps.json
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\BettingPlatformEmulatorTest\bin\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.runtimeconfig.json
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\BettingPlatformEmulatorTest\bin\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.runtimeconfig.dev.json
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\BettingPlatformEmulatorTest\bin\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.dll
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\BettingPlatformEmulatorTest\bin\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.pdb
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\BettingPlatformEmulatorTest\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\BettingPlatformEmulatorTest\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\BettingPlatformEmulatorTest\obj\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.csprojAssemblyReference.cache
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\BettingPlatformEmulatorTest\obj\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.AssemblyInfoInputs.cache
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\BettingPlatformEmulatorTest\obj\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.AssemblyInfo.cs
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\BettingPlatformEmulatorTest\obj\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.csproj.CoreCompileInputs.cache
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\BettingPlatformEmulatorTest\obj\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.csproj.CopyComplete
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\BettingPlatformEmulatorTest\obj\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.dll
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\BettingPlatformEmulatorTest\obj\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.pdb
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\BettingPlatformEmulatorTest\obj\Debug\netcoreapp3.1\BettingPlatformEmulatorTest.genruntimeconfig.cache

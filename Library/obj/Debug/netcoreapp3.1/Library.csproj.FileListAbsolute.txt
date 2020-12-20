@@ -1,0 +1,9 @@
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\Library\bin\Debug\netcoreapp3.1\Library.deps.json
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\Library\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\Library\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\Library\obj\Debug\netcoreapp3.1\Library.csprojAssemblyReference.cache
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\Library\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\Library\obj\Debug\netcoreapp3.1\Library.dll
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework2\Library\obj\Debug\netcoreapp3.1\Library.pdb
