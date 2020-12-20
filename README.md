@@ -1,3 +1,3 @@
-# PM_Academy_Homework1
-PariMatch Tech Academy Homework #1
+# PM_Academy_Homework2
+PariMatch Tech Academy Homework #2
 Made by Mulish Vadym
